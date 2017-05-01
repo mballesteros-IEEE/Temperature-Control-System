@@ -1,0 +1,77 @@
+#################
+## GitIgnore Useful stuff
+#################
+
+## AVR Development
+*.eep
+*.elf
+*.lst
+*.lss
+*.sym
+*.d
+*.o
+*.srec
+*.map
+
+## Notepad++ backup files
+*.bak
+
+## BOM files
+*bom*
+
+#############
+## Eagle
+#############
+
+# Ignore the board and schematic backup files and lock files
+*.b#?
+*.s#?
+*.l#?
+*.lck
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+#############
+## Mac OS
+#############
+
+.DS_Store
+
+
+#############
+## Linux
+#############
+
+# backup files (*.bak on Win)
+*~
+
+
+#############
+## Python
+#############
+
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+
