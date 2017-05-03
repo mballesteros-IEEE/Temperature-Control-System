@@ -1,4 +1,4 @@
-# Temperature-Control-System
+Temperature-Control-System
 ========================================
 
 Automatic system to control temperature in a house. Project in development
